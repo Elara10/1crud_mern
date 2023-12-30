@@ -1,8 +1,11 @@
+import {FormGroup} from '@mui/material';
 
 
 const AddUser=()=>{
     return (
-        <p>Hello from AddUser</p>
+        <FormGroup>
+            
+        </FormGroup>
     )
 }
 export default AddUser;
